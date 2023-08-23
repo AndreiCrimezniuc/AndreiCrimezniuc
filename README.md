@@ -1,6 +1,7 @@
 Hello. I'm Andrei Crimezniuc. I'm 24 yeals old. I'm passion about programming and learning new things like languages, programming lanugages and humanitarian sciences. Development is my main ocupation sinse oct. 2020 <br>
 <br>
 <b>The main stack:</b> <br>
+<img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
  <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
@@ -17,7 +18,6 @@ Hello. I'm Andrei Crimezniuc. I'm 24 yeals old. I'm passion about programming an
 <b>Interested and want to learn:</b>
 <br>
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" />
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img height=50 weight=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
