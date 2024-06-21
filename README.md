@@ -1,1 +1,1 @@
-Hello. I'm Andrei Crimezniuc. I'm 25 yeals old. I'm passion about programming and learning new things like languages, programming lanugages and humanitarian sciences. Development is my main ocupation sinse oct. 2020 <br>
+
